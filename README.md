@@ -1,12 +1,5 @@
 
-[![Pod Version](http://img.shields.io/cocoapods/v/CNPPopupController.svg?style=flat)](http://cocoadocs.org/docsets/CNPPopupController/)
-[![Pod Platform](http://img.shields.io/cocoapods/p/CNPPopupController.svg?style=flat)](http://cocoadocs.org/docsets/CNPPopupController/)
-[![Pod License](http://img.shields.io/cocoapods/l/CNPPopupController.svg?style=flat)](https://github.com/carsonperrotti/CNPPopupController/blob/master/LICENSE)
-[![Dependency Status](https://www.versioneye.com/objective-c/cnppopupcontroller/0.2.1/badge.svg?style=flat)](https://www.versioneye.com/objective-c/cnppopupcontroller)
-
 # CNPPopupController
-
-**THIS PROJECT IS DEPRECATED** I no longer have the time to maintain this project, sorry. I am no longer making any changes to this codebase. Please feel free to fork it, change whatever you want, and publish it anywhere you like. I'll leave this repo open until September 1, 2019 so that you can get what you need.
 
 ## Introduction
 
